@@ -1,17 +1,12 @@
 # Quantum Circuits and Quantum Machine Learning
 
+INF367 Mandatory Assignment 2
+*Authors: Khalil Ibrahim, Simon Vedaa, Christoffer Slettebø*
+
 his repository contains an implementation of Quantum Neural Networks (QNN) for classifying flowers from the Iris dataset, developed as part of an assignment for INF367: Introduction to Quantum Computing & Quantum Machine Learning. The project explores various quantum circuits and QNN architectures using the Qiskit library, focusing on optimizing performance through parameter tuning and gradient descent methods.
 
 The repository includes data processing, circuit diagrams, model training, and evaluation. The objective is to investigate how quantum computing can be applied to machine learning tasks and to experiment with different approaches to enhance model accuracy.
 
-
----
-title: INF367 Mandatory 2
-author: 
-    - "Christoffer Slettebø"
-    - "Simon Vedaa"
-    - "Khalil Ibrahim"
----
 
 # Data exploration and pre-processing:
 
